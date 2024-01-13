@@ -20,7 +20,7 @@
 
 
 
-.nav{
+.n_nav{
       width: 100%;
       height: auto;
       border: 1px solid black;
@@ -28,9 +28,9 @@
     position: relative;
 
 }        
-.navbar{
+.n_navbar{
     border: 1px solid black;
-    width: 49%;
+    width: 53%;
     height: 75px;
     background-color: white;
     margin: 320px 25.5%;
@@ -40,7 +40,7 @@
     padding-left: 10px;
 
 }
-.zed1{
+.n_zed1{
     width: 15%;
     height: 100%;
     display: flex;
@@ -48,32 +48,33 @@
     align-items: center;
 
 }
-.zed2{
+.n_zed2{
     width: 24%;
     height: 100%;
     display: flex;
     justify-content: start;
     align-items: center;
 }
-.zed3{
+.n_zed3{
     width: 26%;
     height: 100%;
     display: flex;
     justify-content: start ;
     align-items: center;
 }
-.zed4{
+.n_zed4{
     width: 25%;
     height: 100%;
     display: flex;
     justify-content: end;
     align-items: center;
 }
-.zed5{
+.n_zed5{
     width: 11%;
     height: 100%;
   display: flex;justify-content: center;
   align-items: center;
+  padding-left: -5px;
   
 }
 .zed1 img{
@@ -220,7 +221,7 @@
     margin-left: 4%;
     grid-gap: 15px;
     position: absolute;
-    top: -30px;
+    top: -120px;
     
     
 
@@ -301,15 +302,15 @@
     font-size: 14px;
 }
 .n_1{
-    width: 99%;
+    width: 95%;
     height: 90px;
     background-color: white;
     margin-top: -240px;
     position: absolute;
     display: flex;
     align-items: center;
-
-
+  margin-top: -330px;
+  margin-left: 45px;
 }
 #n_z7{
       position: absolute;
@@ -318,7 +319,7 @@
 
 #n_z6{
         position: absolute;
-        left: 27%;
+        left: 25%;
 }
 #n_z5{
       position: absolute;
